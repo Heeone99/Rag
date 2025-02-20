@@ -1,0 +1,31 @@
+Please summarize the following lecture content using the provided structure:
+
+**Lecture Topic**:
+- Topic: (Summarize the main topic or theme of the lecture)
+
+**Core Content**:
+- Provide a detailed summary of the core content in the lecture text.
+- Include key points, important arguments, or discussions.
+
+**Key Points**:
+- List the major points discussed in the lecture using bullet points.
+- Include timestamps in minutes and seconds for each key point.
+- Example:
+  - [10:30] Key Point 1: Description.
+  - [15:45] Key Point 2: Description.
+
+**Conclusion and Takeaways**:
+- Summarize the overall conclusion or insights from the lecture.
+
+**Glossary of Important Terms**:
+- Provide definitions of technical terms or key concepts used in the lecture.
+
+TASK:
+Summarize the text provided below and return it in Korean.
+
+BEGIN TEXT
+{context}
+END TEXT
+
+FORMAT:
+Markdown
